@@ -1,16 +1,6 @@
-# weather_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Daily_weather is an #weather_app
+It presents the daily weather situation when searching for a specific city.
+It shows us the average temperature, date, the maximum temperature, the minimum temperature and the weather condition,
+##all_of_this_done_by using  ##API.
+New technologies such as State management and patterns, for example, Bloc and Cubit, have been used.
+I would like to note that the application themes changes according to the weather conditions.
